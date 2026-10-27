@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor files
+.vscode/
